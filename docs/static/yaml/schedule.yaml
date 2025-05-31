@@ -4,11 +4,19 @@
         topics:         I/O, Complexity, Coding Style, Linting
         assignments:
           - Reading 00
+        items:
+          - name:       Slides 00
+            link:       https://docs.google.com/presentation/d/1W9mwz8e30KKKia7K6DBeKdlVZJ9ZunsY72UWrWZasbY/edit?usp=sharing
+          - name:       Slides 01
+            link:       https://docs.google.com/presentation/d/1Rw5VIoqTbe7ujpTwz8deR8u-Yjm84mPA2W4rv5M5SNo/edit?usp=sharing
 
       - date:           Wed 06/04
         topics:         Arrays, Lists, Stacks, Queues
         assignments:
           - Reading 01
+        items:
+          - name:       Slides 02
+            link:       https://docs.google.com/presentation/d/1yxuOKrxk95AmKtYkA4W0Jc2pIN_3PJPsjJ5sx5hv2SM/edit?usp=sharing
 
       - date:           Sat 06/07
         assignments:
