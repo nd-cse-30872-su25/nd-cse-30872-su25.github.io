@@ -82,7 +82,7 @@ body:       |
     To submit you work, follow the same process outlined in [Reading 01]:
 
         :::bash
-        $ git checkout master                 # Make sure we are in master branch
+        $ git switch master                   # Make sure we are in master branch
 
         $ git pull --rebase                   # Make sure we are up-to-date with GitHub
 
