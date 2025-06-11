@@ -58,9 +58,17 @@
         topics:         Subsets, Permutations, Backtracking
         assignments:
           - Reading 03
+        items:
+          - name:       Slides 05
+            link:       https://docs.google.com/presentation/d/1LlzgvH7DiaSNyZmMv7v_FzMXo_8hbEJxRI4Mzo4_iAU/edit?usp=sharing
 
       - date:           Wed 06/18
         topics:         Bit Manipulation, Greedy Algorithms
+        items:
+          - name:       Slides 06
+            link:       https://docs.google.com/presentation/d/1_MN2pwv5qSz1zfO5PLT-B1APhiGAueTA9JA3ot6f2YU/edit?usp=sharing
+          - name:       Slides 07
+            link:       https://docs.google.com/presentation/d/1uczqPpQA40uJ8Q-SYcAAUw9-Ft4wfoGYoq7t4seeXmo/edit?usp=sharing
 
       - date:           Sat 06/21
         assignments:
