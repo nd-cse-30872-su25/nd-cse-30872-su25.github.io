@@ -73,6 +73,8 @@
             link:       https://docs.google.com/presentation/d/1_MN2pwv5qSz1zfO5PLT-B1APhiGAueTA9JA3ot6f2YU/edit?usp=sharing
           - name:       Slides 07
             link:       https://docs.google.com/presentation/d/1uczqPpQA40uJ8Q-SYcAAUw9-Ft4wfoGYoq7t4seeXmo/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07ca5918-b141-4e54-a647-b30100175599
 
       - date:           Sat 06/21
         assignments:
@@ -86,9 +88,15 @@
         topics:         Memoization
         assignments:
           - Reading 04
+        items:
+          - name:       Slides 08
+            link:       https://docs.google.com/presentation/d/1Gyj0PW0EaZTVnp1kKD4xcbUbYwmoHgs4CXQxsFSNKqg/edit?usp=sharing
 
       - date:           Wed 06/25
         topics:         Table Building
+        items:
+          - name:       Slides 08
+            link:       https://docs.google.com/presentation/d/1Gyj0PW0EaZTVnp1kKD4xcbUbYwmoHgs4CXQxsFSNKqg/edit?usp=sharing
 
       - date:           Sat 06/28
         assignments:
