@@ -110,9 +110,15 @@
         topics:         Representation, Traversal
         assignments:
           - Reading 05
+        items:
+          - name:       Slides 09
+            link:       https://docs.google.com/presentation/d/1coW0J8QmFm9UfudN92gTNAzmuX2fHOSVceHdMFRdwhw/edit?usp=sharing
 
       - date:           Wed 07/02
         topics:         Divide and Conquer
+        items:
+          - name:       Slides 09
+            link:       https://docs.google.com/presentation/d/1coW0J8QmFm9UfudN92gTNAzmuX2fHOSVceHdMFRdwhw/edit?usp=sharing
 
       - date:           Sat 07/05
         assignments:
