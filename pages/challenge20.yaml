@@ -149,7 +149,7 @@ body:       |
     To submit your work, follow the same procedure you used for [Reading 01]:
 
         :::bash
-        $ cd path/to/cse-30872-fa22-assignments     # Go to assignments repository
+        $ cd path/to/cse-30872-su25-assignments     # Go to assignments repository
         $ git switch master                         # Make sure we are on master
         $ git pull --rebase                         # Pull any changes from GitHub
 
