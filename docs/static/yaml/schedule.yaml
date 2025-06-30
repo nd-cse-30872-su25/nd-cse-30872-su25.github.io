@@ -139,12 +139,18 @@
 
       - date:           Wed 07/09
         topics:         Shortest Paths, Spanning Trees
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1C_mI92zhwQ24JIYwMAaTZ9GJ2UAbQH1xr1QJC2JZ-eI/edit?usp=sharing
 
       - date:           Sat 07/12
         assignments:
           - Challenge 16
           - Challenge 17
           - Challenge 18
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1C_mI92zhwQ24JIYwMAaTZ9GJ2UAbQH1xr1QJC2JZ-eI/edit?usp=sharing
 
 - name:     Graphs II
   days:
