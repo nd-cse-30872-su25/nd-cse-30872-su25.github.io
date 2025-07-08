@@ -140,6 +140,9 @@
         topics:         Representation, Traversal
         assignments:
           - Reading 06
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57dc4f9d-f07f-4567-ac73-b31400157d51
 
       - date:           Wed 07/09
         topics:         Shortest Paths, Spanning Trees
