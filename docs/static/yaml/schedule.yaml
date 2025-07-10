@@ -140,12 +140,19 @@
         topics:         Representation, Traversal
         assignments:
           - Reading 06
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1C_mI92zhwQ24JIYwMAaTZ9GJ2UAbQH1xr1QJC2JZ-eI/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57dc4f9d-f07f-4567-ac73-b31400157d51
 
       - date:           Wed 07/09
         topics:         Shortest Paths, Spanning Trees
         items:
           - name:       Slides 10
             link:       https://docs.google.com/presentation/d/1C_mI92zhwQ24JIYwMAaTZ9GJ2UAbQH1xr1QJC2JZ-eI/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16d8aa3b-b0ac-4277-b042-b3160018797a
 
       - date:           Sat 07/12
         assignments:
