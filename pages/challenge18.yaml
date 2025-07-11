@@ -164,7 +164,7 @@ body:       |
     <tbody markdown="1">
     <tr markdown="1">
       <td markdown="1">**Time Complexity**</td>
-      <td markdown="1">`O(VlogV)`, where `V` is the number of vertices in the graph.</td>
+      <td markdown="1">`O(V^2)`, where `V` is the number of vertices in the graph.</td>
     </tr>
     <tr markdown="1">
       <td markdown="1">**Space Complexity**</td>
