@@ -159,9 +159,6 @@
           - Challenge 16
           - Challenge 17
           - Challenge 18
-        items:
-          - name:       Slides 10
-            link:       https://docs.google.com/presentation/d/1C_mI92zhwQ24JIYwMAaTZ9GJ2UAbQH1xr1QJC2JZ-eI/edit?usp=sharing
 
 - name:     Graphs II
   days:
@@ -172,6 +169,8 @@
         items:
           - name:       Slides 11
             link:       https://docs.google.com/presentation/d/1Jyz6eZHLOmLPVeu6Up559q64wVcotZLZmhCGbPBDbIw/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70c6dde5-5962-490a-8d83-b31b0017ccbb
 
       - date:           Wed 07/16
         topics:         Paths, Flows
